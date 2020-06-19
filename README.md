@@ -1,7 +1,4 @@
-# Awesome Project Build with TypeORM
+# Repository template for Node.js + TypeScript + TypeORM + Debugging in VS Code
 
-Steps to run this project:
-
-1. Run `npm i` command
-2. Setup database settings inside `ormconfig.json` file
-3. Run `npm start` command
+Just hit `F5` and you'll have an express server running with the debugger.
+Remember to configure the `ormconfig.json` file with your database configuration.
